@@ -1,13 +1,13 @@
 # Sens-TV
-Applications for Watch TV Channels Online
++ Applications for Watch TV Channels Online
 
-# Screen Examples:
+# Screens:
 
 ## Menu
 <img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/Sens-TV/master/ScreenShot/Screenshot%20from%202018-11-17%2000-48-07.png" align="center" height="500px" width="282px"/>
 
 ## Main Activity
-<img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/Sens-TV/master/ScreenShot/37268354_1742880895747559_8089418108554444800_n.jpg" align="center" height="500px" width="282px"/>
+<img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/Sens-TV/master/ScreenShot/37258207_1742880892414226_8838072032559104_n.jpg" align="center" height="500px" width="282px"/>
 
 ## Player Activity
 <img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/Sens-TV/master/ScreenShot/37214730_1742880865747562_57782836437975040_n.jpg" align="center" height="282px" width="500px"/>
