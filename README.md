@@ -1,5 +1,7 @@
 # Sens-TV
-+ Applications for Watch TV Channels Online
++ Applications for Watch TV Channels Online.
++ With Chromecast and DLNA / UPNP support so you can see its contents in any
+  Smart TV or Device that supports this technology.
 
 # Screens:
 
