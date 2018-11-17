@@ -10,7 +10,7 @@ Applications for Watch TV Channels Online
 <img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/Sens-TV/master/ScreenShot/37268354_1742880895747559_8089418108554444800_n.jpg" align="center" height="500px" width="282px"/>
 
 ## Player Activity
-<img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/Sens-TV/master/ScreenShot/37208242_1742880859080896_918948282074398720_n.jpg" align="center" height="282px" width="500px"/>
+<img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/Sens-TV/master/ScreenShot/37214730_1742880865747562_57782836437975040_n.jpg" align="center" height="282px" width="500px"/>
 
 ## Settings Activity
 
